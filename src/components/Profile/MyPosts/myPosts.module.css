@@ -1,0 +1,17 @@
+item {
+    background-color: greenyellow;
+}
+
+.myPosts img {
+    width: 50px;
+    height: 30px;
+}
+
+.postBlock {
+    padding: 10px;
+}
+
+
+.posts {
+    margin-top: 10px;
+}
